@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hikam",
+    "name": "الحكم العطائية",
+    "file": "hikam.txt",
+    "version": 1,
+    "author": "ابن عطاء الله السكندري"
+  },
+  {
+    "id": "book-2",
+    "name": "الرسالة القشيرية",
+    "file": "quchayri",
+    "version": 1,
+    "author": "القشيري"
+  }
+]
