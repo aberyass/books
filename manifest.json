@@ -53,6 +53,17 @@
     "id": "nassiha",
     "name": "النصيحة الكافية",
     "file": "nassiha",
-    "version": 1
+    "version": 1,
+    "type": "pdf",
+    "index": [
+      {
+        "title": "المقدمة",
+        "page": 3
+      },
+      {
+        "title": "وجوب طاعة الله",
+        "page": 10
+      }
+    ]
   }
 ]
