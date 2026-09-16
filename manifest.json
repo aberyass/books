@@ -70,6 +70,27 @@
       }
     ]
   },
+   {
+    "id": "ayouha-lwalad.pdf",
+    "name": "أيها الولد",
+    "type": "pdf",
+    "file": "pdf/ayouha-lwalad.pdf",
+    "version": 1,
+    "index": [
+      {
+        "title": "الفصل الأول ",
+        "page": 5
+      },
+      {
+        "title": "ترجمة الشهادتين",
+        "page": 22
+      },
+      {
+        "title": "القاعدة العاشرة",
+        "page": 47
+      }
+    ]
+  },
   {
     "id": "nassiha",
     "name": "النصيحة الكافية",
@@ -88,3 +109,4 @@
     ]
   }
 ]
+ 
