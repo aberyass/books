@@ -18,4 +18,38 @@
       { "title": "القاعدة العاشرة", "page": 47 }
     ]
   }
+  [
+  {
+    "id": "hikam",
+    "name": "الحكم العطائية",
+    "file": "hikam.txt",
+    "version": 1,
+    "author": "ابن عطاء الله السكندري"
+  },
+  {
+    "id": "rissala",
+    "name": "الرسالة القشيرية",
+    "type": "pdf",
+    "file": "pdf/rq.pdf",
+    "version": 1,
+    "index": [
+      { "title": "الباب العاشر: الزهد", "page": 212 },
+      { "title": "الباب الثاني عشر: الخوف", "page": 226 },
+      { "title": "الباب 15: الجوع وترك الشهوة", "page": 47 }
+    ]
+  },
+  {
+    "id": "qawaid-tasawwuf",
+    "name": "قواعد التصوف",
+    "type": "pdf",
+    "file": "pdf/kt.pdf",
+    "version": 1,
+    "index": [
+      { "title": "القاعدة الأولى", "page": 5 },
+      { "title": "القاعدة الرابعة", "page": 22 },
+      { "title": "القاعدة العاشرة", "page": 47 }
+    ]
+  }
+]
+
 ]
