@@ -12,17 +12,17 @@
     "file": "quchayri",
     "version": 1,
     "author": "القشيري"
-  }
+  },
   {
-  "id": "qawaid-tasawwuf",
-  "name": "قواعد التصوف",
-  "type": "pdf",
-  "file": "pdf/kt.pdf",
-  "version": 1,
-  "index": [
-    { "title": "القاعدة الأولى", "page": 5 },
-    { "title": "القاعدة الرابعة", "page": 22 },
-    { "title": "القاعدة العاشرة", "page": 47 }
-  ]
-}
+    "id": "qawaid-tasawwuf",
+    "name": "قواعد التصوف",
+    "type": "pdf",
+    "file": "pdf/kt.pdf",
+    "version": 1,
+    "index": [
+      { "title": "القاعدة الأولى", "page": 5 },
+      { "title": "القاعدة الرابعة", "page": 22 },
+      { "title": "القاعدة العاشرة", "page": 47 }
+    ]
+  }
 ]
