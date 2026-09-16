@@ -49,6 +49,27 @@
       }
     ]
   },
+    {
+    "id": "walad",
+    "name": "أيها الولد",
+    "type": "pdf",
+    "file": "pdf/walad.pdf",
+    "version": 1,
+    "index": [
+      {
+        "title": "الفصل الأول",
+        "page": 5
+      },
+      {
+        "title": "ترجمة الشهادتين",
+        "page": 22
+      },
+      {
+        "title": "القاعدة العاشرة",
+        "page": 47
+      }
+    ]
+  },
   {
     "id": "hakaik-tasawwuf",
     "name": "حقائق عن التصوف",
