@@ -3,7 +3,7 @@
     "id": "hikam",
     "name": "الحكم العطائية",
     "type": "txt",
-    "file": "https://raw.githubusercontent.com/aberyass/books/main/hikam.txt",
+    "file": "hikam.txt",
     "version": 1,
     "author": "ابن عطاء الله السكندري"
   },
@@ -11,7 +11,7 @@
     "id": "rissala",
     "name": "الرسالة القشيرية",
     "type": "pdf",
-    "file": "https://raw.githubusercontent.com/aberyass/books/main/pdf/rq.pdf",
+    "file": "pdf/rq.pdf",
     "version": 1,
     "index": [
       {
@@ -32,7 +32,7 @@
     "id": "qawaid-tasawwuf",
     "name": "قواعد التصوف",
     "type": "pdf",
-    "file": "https://raw.githubusercontent.com/aberyass/books/main/pdf/kt.pdf",
+    "file": "pdf/kt.pdf",
     "version": 1,
     "index": [
       {
@@ -53,7 +53,7 @@
     "id": "hakaik-tasawwuf",
     "name": "حقائق عن التصوف",
     "type": "pdf",
-    "file": "https://raw.githubusercontent.com/aberyass/books/main/pdf/ht.pdf",
+    "file": "pdf/ht.pdf",
     "version": 1,
     "index": [
       {
@@ -74,7 +74,7 @@
     "id": "walad",
     "name": "أيها الولد",
     "type": "pdf",
-    "file": "https://raw.githubusercontent.com/aberyass/books/main/pdf/walad.pdf",
+    "file": "pdf/walad.pdf",
     "version": 1,
     "index": [
       {
@@ -94,7 +94,7 @@
   {
     "id": "nassiha",
     "name": "النصيحة الكافية",
-    "file": "https://raw.githubusercontent.com/aberyass/books/main/pdf/nassiha.pdf",
+    "file": "pdf/nassiha.pdf",
     "version": 1,
     "type": "pdf",
     "index": [
@@ -112,7 +112,7 @@
     "id": "bourda",
     "name": "البردة",
     "type": "pdf",
-    "file": "https://raw.githubusercontent.com/aberyass/books/main/pdf/bourda.pdf",
+    "file": "pdf/bourda.pdf",
     "version": 1,
     "index": [
       {
@@ -133,7 +133,7 @@
     "id": "chernb",
     "name": "الشرنوبي على الحكم",
     "type": "pdf",
-    "file": "https://raw.githubusercontent.com/aberyass/books/main/chernb",
+    "file": "chernb",
     "version": 1,
     "index": [
       {
