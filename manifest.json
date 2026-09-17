@@ -145,5 +145,22 @@
         "page": 60
       }
     ]
+  },
+  {
+    "id": "hamz",
+    "name": "الهمزية",
+    "type": "pdf",
+    "file": "pdf/hamz.pdf",
+    "version": 1,
+    "index": [
+      {
+        "title": "المقدمة",
+        "page": 1
+      },
+      {
+        "title": "الرضاغ",
+        "page": 3
+      }
+    ]
   }
 ]
