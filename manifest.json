@@ -3,7 +3,7 @@
     "id": "saadat-al-darayn",
     "name": "ورد سعادة الدارين",
     "type": "pdf",
-    "file": "pdf/saadat-al-darayn.pdf",
+    "file": "saadat-al-darayn.pdf",
     "version": 1,
     "index": [
       {
@@ -168,7 +168,7 @@
     "id": "samm",
     "name": "مجموع قصائد السماع",
     "type": "pdf",
-    "file": "pdf/samm.pdf",
+    "file": "samm.pdf",
     "version": 1,
     "index": [
       {
@@ -353,7 +353,7 @@
     "id": "adab",
     "name": "رسالة الأدب",
     "type": "pdf",
-    "file": "pdf/adab.pdf",
+    "file": "adab.pdf",
     "version": 1
   },
   {
@@ -538,7 +538,7 @@
     "id": "المختصر_المفيد_لأحكام_الحج_على_مذهب_الإمام_مالك 1",
     "name": "المختصر_المفيد_لأحكام_الحج",
     "type": "pdf",
-    "file": "pdf/المختصر_المفيد_لأحكام_الحج_على_مذهب_الإمام_مالك 1.pdf",
+    "file": "pdf/المختصر_المفيد_لأحكام_الحج_على_مذهب_الإمام_مالك 1.pdf",
     "version": 1
   },
   {
